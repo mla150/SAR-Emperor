@@ -1,3 +1,21 @@
+Title: Tracking wintertime behaviour of emperor penguins using high-resolution synthetic aperture radar imagery
+Authors: Michelle LaRue1*, Daniel Price1, Sarah Wiki-Bennett2, Charles K. Lee3, B. Jack Pan4, Kyle McCloud5, Heather Cruickshank6, Alex Ponniah6, Daniel Zitterbart7,8, Alexander Winterl8, Céline Le Bohec9,10, Rose Foster-Dyer1, Peter Fretwell11
+Affiliations:
+1School of Earth and Environment, University of Canterbury, Christchurch, New Zealand 
+2Research and Innovation, University of Canterbury, Christchurch, New Zealand 
+3School of Science, University of Waikato, Hamilton, NZ
+4Ocean Motion Technologies, San Diego, USA
+5Umbra Space, Santa Barbara, USA
+6Talesmith, London, UK
+7Woods Hole Oceanographic Institute, Woods Hole, USA
+8Friedrich-Alexander University Erlangen-Nürnberg, Department of Physics, Erlangen, Germany
+9CEFE, Université de Montpellier, CNRS, EPHE, IRD, Montpellier, France
+10Centre Scientifique de Monaco, Département de Biologie Polaire, Monaco City, Monaco
+11British Antarctic Survey, Cambridge, UK
+*Corresponding author: michelle.larue@canterbury.ac.nz
+Running title: SAR imagery for winter estimates of emperor penguins
+
+
 Metadata for “sar_huddles_20250502.csv”
 Created by Michelle LaRue
 Derived from the shapefile, “sar_huddles_20250502.shp”, which is the GIS file containing the delineated huddles of all emperor penguins from synthetic aperture radar (SAR) imagery during winter 2024 at six colonies.
