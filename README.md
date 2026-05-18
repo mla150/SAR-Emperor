@@ -1,5 +1,7 @@
 Title: Tracking wintertime behaviour of emperor penguins using high-resolution synthetic aperture radar imagery
+
 Authors: Michelle LaRue1*, Daniel Price1, Sarah Wiki-Bennett2, Charles K. Lee3, B. Jack Pan4, Kyle McCloud5, Heather Cruickshank6, Alex Ponniah6, Daniel Zitterbart7,8, Alexander Winterl8, Céline Le Bohec9,10, Rose Foster-Dyer1, Peter Fretwell11
+
 Affiliations:
 1School of Earth and Environment, University of Canterbury, Christchurch, New Zealand 
 2Research and Innovation, University of Canterbury, Christchurch, New Zealand 
@@ -13,6 +15,7 @@ Affiliations:
 10Centre Scientifique de Monaco, Département de Biologie Polaire, Monaco City, Monaco
 11British Antarctic Survey, Cambridge, UK
 *Corresponding author: michelle.larue@canterbury.ac.nz
+
 Running title: SAR imagery for winter estimates of emperor penguins
 
 
